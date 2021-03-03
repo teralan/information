@@ -9,8 +9,8 @@
 
 | 📂 project                          | 🤵 production                                                                               | preview |
 |----------------------------------|------------------------------------------------------------------------------------------|---------|
-| [teralan.se](teralan.se) | ![teralan](http://therealsujitk-vercel-badge.vercel.app/?app=teralan-se) | TODO    |
-| [strapi-cms](strapi-cms) | ![strapi-cms](https://heroku-badge.herokuapp.com/?app=teralan-strapi)                      | TODO    |
+| [teralan.se](https://github.com/teralan/teralan.se) | ![teralan](http://therealsujitk-vercel-badge.vercel.app/?app=teralan-se) | TODO    |
+| [strapi-cms](https://github.com/teralan/strapi-cms) | ![strapi-cms](https://heroku-badge.herokuapp.com/?app=teralan-strapi)                      | TODO    |
 
 ---
 
