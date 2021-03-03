@@ -5,12 +5,31 @@
 
 ---
 
-## Overview
+## teralan.se
 
-| 📂 project                          | 🤵 production                                                                               | preview |
-|----------------------------------|------------------------------------------------------------------------------------------|---------|
-| [teralan.se](https://github.com/teralan/teralan.se) | ![teralan](http://therealsujitk-vercel-badge.vercel.app/?app=teralan-se) | TODO    |
-| [strapi-cms](https://github.com/teralan/strapi-cms) | ![strapi-cms](https://heroku-badge.herokuapp.com/?app=teralan-strapi)                      | TODO    |
+| 🤵 production                                                                               | preview |
+|------------------------------------------------------------------------------------------|---------|
+| ![vercel](http://therealsujitk-vercel-badge.vercel.app/?app=teralan-se) | TODO    |
+
+### Overview
+Hosted on [vercel](https://vercel.com/) for free as a static website.
+
+### Two deploy CI actions:
+- `push to develop` - builds & deploys preview build
+- `push to master` - builds & deploys production build
+
+
+## strapi-cms
+
+| 🤵 production                                                                               | preview |
+|------------------------------------------------------------------------------------------|---------|
+| ![heroku](https://heroku-badge.herokuapp.com/?app=teralan-strapi)                      | TODO    |
+
+### Overview
+Hosted on [heroku](https://teralan-strapi.herokuapp.com/admin) for free.
+
+### Cloudinary
+Uses [cloudinary](https://cloudinary.com/) for hosting images as `heroku` doesn't offer any free persistent storage.
 
 ---
 
