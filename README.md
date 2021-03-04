@@ -24,7 +24,7 @@ Hosted on [vercel](https://vercel.com/) for free as a static website.
 
 | [🤵 production](https://teralan-strapi.herokuapp.com/admin)  | preview |
 |------------------------------------------------------------------------------------------|---------|
-| ![heroku](https://heroku-badge.herokuapp.com/?app=teralan-strapi)                      | TODO    |
+| ![heroku](https://pyheroku-badge.herokuapp.com/?app=teralan-strapi)                      | TODO    |
 
 ### Overview
 Hosted on [heroku](https://dashboard.heroku.com/) for free.
