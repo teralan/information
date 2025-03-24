@@ -7,30 +7,11 @@
 
 ## [teralan.se](https://github.com/teralan/teralan.se)
 
-| [🤵 production](https://teralan.se)  | preview |
-|------------------------------------------------------------------------------------------|---------|
-| ![vercel](http://therealsujitk-vercel-badge.vercel.app/?app=teralan-se) | TODO    |
+Hosted on [Railway](https://railway.app/). SSR app made with [leptos](https://leptos.dev). Content hosted on GitHub.
 
-### Overview
-Hosted on [vercel](https://vercel.com/) for free as a static website.
+## [monsterhack.se](https://github.com/teralan/monsterhack.se)
 
-### Two deploy CI actions:
-- `push to develop` - builds & deploys preview build
-- `push to master` - builds & deploys production build
-
-<br>
-
-## [strapi-cms](https://github.com/teralan/strapi-cms)
-
-| [🤵 production](https://teralan-strapi.herokuapp.com/admin)  | preview |
-|------------------------------------------------------------------------------------------|---------|
-| ![heroku](https://pyheroku-badge.herokuapp.com/?app=teralan-strapi)                      | TODO    |
-
-### Overview
-Hosted on [heroku](https://dashboard.heroku.com/) for free.
-
-### Cloudinary
-Uses [cloudinary](https://cloudinary.com/) for hosting images as `heroku` doesn't offer any free persistent storage.
+Hosted on [Railway](https://railway.app/). SSR app made with [leptos](https://leptos.dev). Content hosted on GitHub.
 
 ---
 
