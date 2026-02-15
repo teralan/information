@@ -5,13 +5,13 @@
 
 ---
 
-## [teralan.se](https://github.com/teralan/web/apps/teralan)
+## [teralan.se](https://github.com/teralan/web/tree/main/apps/teralan)
 
-Hosted on [Railway](https://railway.app/). 
+Hosted on [Railway](https://railway.app/). Content server through github https://github.com/teralan/teralan.se-content
 
-## [monsterhack.se](https://github.com/teralan/web/apps/teralan)
+## [monsterhack.se](https://github.com/teralan/web/tree/main/apps/monsterhack)
 
-Hosted on [Railway](https://railway.app/). 
+Hosted on [Railway](https://railway.app/). Content server through github https://github.com/teralan/monsterhack.se-content
 
 ---
 
