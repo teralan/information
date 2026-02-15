@@ -5,13 +5,13 @@
 
 ---
 
-## [teralan.se](https://github.com/teralan/teralan.se)
+## [teralan.se](https://github.com/teralan/web/apps/teralan)
 
-Hosted on [Railway](https://railway.app/). SSR app made with [leptos](https://leptos.dev). Content hosted on GitHub.
+Hosted on [Railway](https://railway.app/). 
 
-## [monsterhack.se](https://github.com/teralan/monsterhack.se)
+## [monsterhack.se](https://github.com/teralan/web/apps/teralan)
 
-Hosted on [Railway](https://railway.app/). SSR app made with [leptos](https://leptos.dev). Content hosted on GitHub.
+Hosted on [Railway](https://railway.app/). 
 
 ---
 
